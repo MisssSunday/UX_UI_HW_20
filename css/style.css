@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: din-2014, sans-serif;
+}
+
+.header {
+    display: block;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.logoImage {
+    display: flex;
+    align-items: left;
+    height: 50px;
+    width: 130;
+}
+
+.nav {
+
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 30px;
+    color: black;
+}
+
+.navbar {
+
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: black;
+}
+
+.nav-item {
+    /* display: inline-block; */
+    /* background-color:white; */
+    /* height: 90px; */
+    width: 120px;
+    /* padding: 25px; */
+    text-align:center;
+    /* float: initial; */
+    color: black;
+}
+
+.topImage{
+    margin-top: 30px;
+    width: 100%;
+}
+
+.title{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 22px;
+    font-weight:550;
+}
+
+.p1, .p2, .p3, .p4, .p5 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 35px;
+    line-height: 20px;
+    
+}
+
+.list-group {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 15px;
+    margin-left: auto;
+    line-height: 20px;
+    text-align: left;
+    padding: 30px;
+}
+
+.title2 {
+    margin-top: 90px;
+    text-align: center;
+    font-size: 22px;
+    font-weight:550;
+}
+
+.topImage2 {
+    margin-top: 30px;
+text-align: center;
+padding: 30px;
+}
+
+.title3{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 22px;
+    font-weight:550;
+}
+
+.p6 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+.image3, .image4 {
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.title4 {
+    margin-top: 90px;
+    text-align: center;
+    font-size: 22px;
+    font-weight:550;
+}
+
+.p7, .p8 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+.image5, .image6 {
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.title5, .title6 {
+    margin-top: 90px;
+    text-align: center;
+    font-size: 22px;
+    font-weight:550;
+}
+
+.p9, .p10, .p11 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 35px;
+    line-height: 20px;
+}
+
+.image7, .image8, .image9 {
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.card {
+
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 35px;
+}
+
+.image10  {
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.p12, .p13, .p14, .p15 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    line-height: 20px;
+}
+
+.p16 {
+    margin-top: 0px;
+    text-align: center;
+    padding: 30px;
+}
+
+.Products {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 30px;
+    align-items: center;
+    list-style: none;
+}
+
+.title7, .title8, .title9, .title10 {
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    font-weight:550;  
+}
+
+.planner, .planner3 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+.planner2, .planner4 {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.plannerImage {
+
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.socialMedia {
+
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.footerLogo {
+    margin-top: 80px;
+    text-align: center;
+    padding: 30px;
+}
+
+.socialMediaIcons {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+    width: 120px;
+    text-align:center;
+}
+
+.copyright {
+    margin-top: 0px;
+    text-align: center;
+    padding: 30px;
+    font-size: 10;
+    color: grey;
+}
